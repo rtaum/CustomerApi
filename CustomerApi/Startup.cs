@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace CustomerApi
 {
+    // test changes
     public class Startup
     {
         public Startup(IConfiguration configuration)
